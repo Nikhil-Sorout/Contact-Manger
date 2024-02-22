@@ -57,10 +57,3 @@ This is the backend part of the Contact Manager project, built using Node.js, Ex
 
 Use Thunder Client or any other API testing tool to test the API endpoints. Ensure that you are authenticated and have a valid JWT token to access protected routes.
 
-## Contributors
-
-- [Your Name](https://github.com/your-username)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
